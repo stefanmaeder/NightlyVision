@@ -1,2 +1,2 @@
 # NightlyVision
-Template for Python Pipeline to (Pre-)Production
+Template for Python Pipeline in GitHub-Workflow
