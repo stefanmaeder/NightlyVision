@@ -1,0 +1,7 @@
+pytest
+click
+pylint
+pytest-cov
+flake8-simplify
+black
+bandit
