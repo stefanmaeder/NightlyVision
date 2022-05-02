@@ -1,1 +1,1 @@
-print ("No mistake here")
+print("No mistake here")
